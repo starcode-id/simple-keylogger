@@ -1,0 +1,7 @@
+/home/starcode/development/hacking/project/rust/keylogger/target/debug/deps/libstable_deref_trait-92ba8e37dfe6c30e.rmeta: /home/starcode/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stable_deref_trait-1.2.0/src/lib.rs
+
+/home/starcode/development/hacking/project/rust/keylogger/target/debug/deps/libstable_deref_trait-92ba8e37dfe6c30e.rlib: /home/starcode/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stable_deref_trait-1.2.0/src/lib.rs
+
+/home/starcode/development/hacking/project/rust/keylogger/target/debug/deps/stable_deref_trait-92ba8e37dfe6c30e.d: /home/starcode/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stable_deref_trait-1.2.0/src/lib.rs
+
+/home/starcode/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stable_deref_trait-1.2.0/src/lib.rs:
